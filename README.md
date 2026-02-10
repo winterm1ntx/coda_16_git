@@ -1,1 +1,9 @@
-# coda_16_git
+-----------------------------
+  - Nama panggilan : Rey
+  - Background : Non IT
+  - Skala kepedean dari skill (10/10) : 7
+  - Skala kesemangatan (10/10)  : 9
+  - Kesibukan sekarang : Fokus bootcamp
+  - Job seeking atau upskill : Job Seeking
+  - Kalau misalkan lagi burnout itu biasanya ngapain.  : buka netflix
+  - Kalau lagi bingung itu saya harus apa. : break sebentar
